@@ -6,9 +6,9 @@ public class Factory : MonoBehaviour
 {
     public GameObject MovingObjectPrefab;
 
-    const int StartCount = 1000;
-    const int MaxCount = 16000;
-    const int Delta = 1000;
+    const int StartCount = 200;
+    const int MaxCount = 1000;
+    const int Delta = 200;
     Vector2 StartPositionMin = new Vector2(-6.25f, -5.0f);
     Vector2 StartPositionMax = new Vector2(6.25f, 5.0f);
 
