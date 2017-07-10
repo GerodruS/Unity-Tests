@@ -9,7 +9,7 @@ PlayerSettings:
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
-  accelerometerFrequency: 60
+  accelerometerFrequency: 0
   companyName: DefaultCompany
   productName: Tests
   defaultCursor: {fileID: 0}
@@ -138,6 +138,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.tests.unity
     Standalone: com.tests.unity
+    iOS: com.tests.unity
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
